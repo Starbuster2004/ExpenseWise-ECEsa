@@ -1,0 +1,206 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.c
+*.cp
+*.manifest
+*.lib
+*.exp
+*.lst
+*.map
+*.sbr
+*.pch
+*.idb
+*.pdb
+*.tlb
+*.tlh
+*.xll
+*.olb
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env/
+local/
+*.egg-info/
+*.whl
+*.egg
+pip-log.txt
+pip-wheel-metadata/
+*.lproj
+build/
+dist/
+sdist/
+*.spec
+*.tar.gz
+*.zip
+*.rar
+
+# Installer logs
+*.install.log
+*.log
+
+# Unittest and coverage reports
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+.pytest_cache
+nosetests.xml
+coverage.xml
+*.lcov
+*.profdata
+/htmlcov
+/lcov
+/lcov.info
+/.tox/
+/.nox/
+/.idea
+/.vscode
+/dist
+/build
+__pycache__
+*.egg-info
+*.egg
+*.whl
+.pytest_cache
+.env
+.venv
+env
+venv
+ENV
+*.sqlite3
+expenses.db  # Explicitly ignore expenses.db
+receipts/
+packages/
+*.log
+*.tmp
+temp/
+tmp/
+tmp*
+*.bak
+*.orig
+*~
+.DS_Store
+Thumbs.db
+*.py[cod]
+!**/__init__.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.dll
+*.dylib
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/cache
+share/pyshared
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage/
+*.coverage
+*.lcov
+*.profdata
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+_build/
+html/
+doctrees/
+latex/
+_readthedocs/
+
+# PyBuilder
+target/
+instance/
+.pybuilder/
+build.gradle
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IPython
+profile_default/
+ipython_log.py
+*.sqlite
+
+# pyenv
+.python-version
+.venv
+
+# Environments
+.env
+env/
+venv/
+envs/
+pypoetry-local.toml
+pypoetry.lock
+.pytest_cache/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+eggs/
+sdist/
+*.whl
+*.lib
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.so
+*.dylib
+*.pyd
+*.c
