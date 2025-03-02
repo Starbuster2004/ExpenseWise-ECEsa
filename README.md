@@ -85,7 +85,7 @@ ExpenseWise is powered by a stellar lineup of technologies:
 
 1. Clone the Repo:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Starbuster2004/ExpenseWise-ECEsa.git
 cd [your-repository-directory]
 ```
 (Replace placeholders with your repo details)
