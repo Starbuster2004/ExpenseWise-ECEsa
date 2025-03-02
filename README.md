@@ -1,5 +1,8 @@
 # 🚀 College Club ExpenseWise: Smarter Spending for Brighter Futures ✨
 
+![image](https://github.com/user-attachments/assets/1aa03523-78dc-48d1-bc6f-3404f73b8e66)
+
+
 Tired of messy spreadsheets and lost receipts? 💸 Say hello to ExpenseWise, the AI-powered expense management system built for college clubs like yours! 🎉
 
 ExpenseWise isn't just another expense tracker. It's your club's financial co-pilot, bringing intelligence and ease to managing money, so you can focus on what truly matters: making your club awesome! 🌟
@@ -86,7 +89,7 @@ ExpenseWise is powered by a stellar lineup of technologies:
 1. Clone the Repo:
 ```bash
 git clone https://github.com/Starbuster2004/ExpenseWise-ECEsa.git
-cd [your-repository-directory]
+cd ExpenseWise-ECEsa
 ```
 (Replace placeholders with your repo details)
 
@@ -144,6 +147,7 @@ ExpenseWise is released under the MIT License. It's free, open source, and ready
 ## 📞 Let's Connect!
 
 Questions? Issues? Brilliant ideas? We'd love to hear from you! Open an issue on GitHub or send us an email.
+govindrajkotalwar038@gmail.com
 
 ---
 
